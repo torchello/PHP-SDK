@@ -1,0 +1,11 @@
+{
+    "name": "torchello/portmone-php",
+    "type": "library",
+    "description": "Portmone PHP SDK",
+    "keywords": ["portmone", "php"],
+    "autoload": {
+        "psr-4" : {
+            "Twig\\" : "src/"
+        }
+    }
+}
