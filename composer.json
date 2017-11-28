@@ -5,7 +5,7 @@
     "keywords": ["portmone", "php"],
     "autoload": {
         "psr-4" : {
-            "Twig\\" : "src/"
+            "Portmone\\" : "src/"
         }
     }
 }
