@@ -1,0 +1,6 @@
+{
+  "directories": ["entities","libs","exceptions"],
+  "files": ["Portmone.php", "Checkout.php", "Results.php"],
+  "output": "Portmone.phar",
+  "stub": "stub.php"
+}
